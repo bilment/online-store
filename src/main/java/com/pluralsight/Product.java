@@ -23,7 +23,8 @@ public class Product {
         return price;
     }
 
-    public void displayProducts() {
-        System.out.println("ID: " + id + ", Name: " + name + ", Price: $" + price);
+    @Override
+    public String toString() {
+        return id + " | " + name + " | " + price + " $ ";
     }
 }
