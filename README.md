@@ -56,8 +56,8 @@ Outline potential future enhancements or functionalities you might consider addi
 
 List resources such as tutorials, articles, or documentation that helped you during the project.
 
-- [Java Programming Tutorial](https://www.example.com)
-- [Effective Java](https://www.example.com)
+- https://yearup.brightspace.com/d2l/home
+- https://www.w3schools.com/java/
 
 ## Team Members
 
@@ -67,5 +67,5 @@ List resources such as tutorials, articles, or documentation that helped you dur
 
 Express gratitude towards those who provided help, guidance, or resources:
 
-- Thank you to [Mentor's Name] for continuous support and guidance.
+- Thank you to Raymond for continuous support and guidance.
 - A special thanks to all teammates for their dedication and teamwork.
