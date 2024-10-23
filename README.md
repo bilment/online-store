@@ -2,16 +2,18 @@
 
 ## Description of the Project
 
-Briefly describe what this Java console application does. Mention its purpose and who the intended users are. Explain the main functionality and what problems it aims to solve.
+This project is about making a simple online store that you use through commands. Customers can look at products, add or remove items from their cart, and finish buying their items with a checkout process.
 
-![Class Diagram](path/to/your/class_diagram.png)
 
 ## User Stories
 
 List the user stories that guided the development of your application. Format these stories as: "As a [type of user], I want [some goal] so that [some reason]."
 
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
-- As a user, I want to receive immediate feedback, so I can understand what to do next.
+- As a customer, I want to view the available products, so I can decide what to buy.
+- As a customer, I want to filter products by their ID, so I can easily find and purchase specific items.
+- As a customer, I want to add items to my cart, so I can gather all the products I wish to purchase in one place before checking out.
+- As a customer, I want to be able to remove items from my cart, so I can exclude any products I no longer wish to buy before completing my purchase.
+- As a customer, I want to be able to check out the items in my cart, so I can finalize my purchase and complete the transaction.
 
 ## Setup
 
@@ -29,8 +31,8 @@ Follow these steps to get your application running within IntelliJ IDEA:
 1. Open IntelliJ IDEA.
 2. Select "Open" and navigate to the directory where you cloned or downloaded the project.
 3. After the project opens, wait for IntelliJ to index the files and set up the project.
-4. Find the main class with the `public static void main(String[] args)` method.
-5. Right-click on the file and select 'Run 'YourMainClassName.main()'' to start the application.
+4. Find the Store class that contains the public static void main(String[] args) method.
+5. Right-click on the Store class and select 'Run 'Store.main()'' to start the Online Store application.
 
 ## Technologies Used
 
@@ -39,9 +41,9 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Demo
 
-Include screenshots or GIFs that show your application in action. Use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) to record a GIF of your application.
-
-![Application Screenshot](path/to/your/screenshot.png)
+addCart and Show ![addCart and Show.png](imgs/addCart%20and%20Show.png)
+removeCart ![removeCart.png](imgs/removeCart.png)
+showProduct ![showProducts.png](imgs/showProducts.png)
 
 ## Future Work
 
@@ -59,8 +61,7 @@ List resources such as tutorials, articles, or documentation that helped you dur
 
 ## Team Members
 
-- **Name 1** - Specific contributions or roles.
-- **Name 2** - Specific contributions or roles.
+- **Name 1** - Taha Bilmen
 
 ## Thanks
 

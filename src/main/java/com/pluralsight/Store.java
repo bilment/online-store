@@ -63,7 +63,6 @@ public class Store {
                     inventory.add(product);
                 }
             }
-            System.out.println("Loaded!");
         } catch (Exception e) {
             System.out.println("An error has occurred!");
             e.getMessage();
